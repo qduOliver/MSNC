@@ -10,4 +10,5 @@ The training and testing experiments are conducted using PyTorch 1.1.0 with a si
 * torchvision
 
 ## VSOD results
-Our saliency detection results can be downloaded on   ***
+Our saliency detection results can be downloaded on [SalMap][https://pan.baidu.com/s/11Rx0sQ2NquBN_2CpcD3d8g](code:q77f)
+
